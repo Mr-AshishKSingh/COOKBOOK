@@ -2,6 +2,11 @@
 
 Cookbook is a Flutter-based mobile application that connects users seeking home-cooked meals with local cooks. The app allows users to post their cooking needs, browse and book cooks, while cooks can register, manage their profiles, and accept job requests.
 
+![Home](1.png)
+![Home](2.png)
+![Home](3.png)
+![Home](4.png)
+
 ## Features
 
 - **Role Selection:** Sign up as a user or a cook.
